@@ -19,7 +19,7 @@ if(minuend > subtrahend){
 else if(minuend < subtrahend){
 	tempNumber = minuend;
 	minuend = subtrahend;
-	subtrahend = tempNumber
+	subtrahend = tempNumber;
 
 }
 
