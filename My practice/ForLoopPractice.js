@@ -3,12 +3,12 @@
 
 	
 		
-	for(let count = 2; count <= 10; count += 2)
+	/* for(let count = 2; count <= 10; count += 2)
+		console.log(count + " "); */
+
+
+	for(let count = 1; count <= 10; count += 2)
 		console.log(count + " "); 
-
-
-	/* for(int count = 1; count <= 10; count += 2)
-		System.out.print(count + " "); */
 
 	
 	 /* for(int count = 4; count <= 10; count += 4)
