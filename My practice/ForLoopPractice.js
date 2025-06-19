@@ -1,10 +1,10 @@
- 	for(let count = 1; count <= 10; count++)
-		console.log(count + " ");
+ 	/* for(let count = 1; count <= 10; count++)
+		console.log(count + " "); */
 
 	
 		
-	/* for(int count = 2; count <= 10; count += 2)
-		System.out.print(count + " "); */
+	for(let count = 2; count <= 10; count += 2)
+		console.log(count + " "); 
 
 
 	/* for(int count = 1; count <= 10; count += 2)
