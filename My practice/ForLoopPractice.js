@@ -7,12 +7,12 @@
 		console.log(count + " "); */
 
 
-	for(let count = 1; count <= 10; count += 2)
-		console.log(count + " "); 
+	/* for(let count = 1; count <= 10; count += 2)
+		console.log(count + " "); */
 
 	
-	 /* for(int count = 4; count <= 10; count += 4)
-		System.out.print(count + " "); */
+	 for(let count = 4; count <= 10; count += 4)
+		console.log(count + " ");
 
 
 	 /* for(int count = 4; count <= 10; count += 4)
