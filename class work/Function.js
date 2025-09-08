@@ -11,9 +11,6 @@ const greet = function(){
 }
 console.log(greet()); */
 
-
-
-
 let username = "gift";
 let number = 12; 
 
